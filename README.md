@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xhrnca00
 - 👀 I’m interested in archery, Rubik's cubes, tech
-- 🌱 I’m currently learning C++, Unity
+- 🌱 I’m currently learning C++, Python and a bit of HTML
 
 <!---
 xhrnca00/xhrnca00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
